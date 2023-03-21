@@ -29,7 +29,7 @@
     </table>
     <h2>Banco de Dados</h2>
     <p>A plataforma utiliza um banco de dados chamado myfinance, que possui três tabelas:</p>
-    <img src="./docs/diagrama.png" alt="der" />
+    <img src="./docs/diagrama.PNG"/>
     <h3>Tabela planoconta</h3>
     <table style="border-collapse: collapse; width: 80%;">
         <thead>
