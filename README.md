@@ -15,7 +15,7 @@
         <tr>
             <td><i class="fas fa-database"></i> <a
                     href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank">Banco de
-                    Dados SQL-SERVER 16</a></td>
+                    Dados SQL-SERVER 2022</a></td>
         </tr>
         <tr>
             <td><i class="fas fa-code"></i> <a href="https://code.visualstudio.com/download" target="_blank">Visual
