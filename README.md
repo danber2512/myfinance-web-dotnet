@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <meta charset="UTF-8">
-    <title>README - My Finance Web</title>
-</head>
-
 <body>
     <h1>My Finance Web</h1>
     <p>Projeto desenvolvido pelo Grupo 4, para a disciplina de PRÁTICAS DE IMPLEMENTAÇÃO E EVOLUÇÃO DE SOFTWARE do
