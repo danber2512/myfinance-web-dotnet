@@ -1,15 +1,15 @@
 CREATE DATABASE myfinance
 
-use myfinance
+USE myfinance
 
-create table planoconta(
+CREATE TABLE planoconta(
 	id int identity(1,1) not null,
 	descricao varchar (50) not null,
 	tipo char(1) not null,
 	primary key (id)
 );
 
-create table transacao(
+CREATE TABLE transacao(
 	id int identity (1,1) not null,
 	data datetime not null,
 	valor decimal (9,2),
